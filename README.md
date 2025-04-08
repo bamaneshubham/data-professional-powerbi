@@ -29,7 +29,7 @@ Before visualizing, the dataset was:
 
 ## 📷 Dashboard Preview
 
-[!Dashboard Preview](https://github.com/bamaneshubham/data-professional-powerbi/blob/main/dashboard-preview.png)
+![Dashboard Preview](https://github.com/bamaneshubham/data-professional-powerbi/blob/main/dashboard-preview.png)
 
 ## 🚀 How to Use
 1. Clone or download this repo.
