@@ -49,4 +49,4 @@ _You can optionally add a screenshot of your dashboard here._
 - `Data Professional Survey Breakdown.pdf` – Dashboard snapshot
 
 ## 💼 About Me
-I'm a data enthusiast passionate about transforming raw data into meaningful insights. Connect with me on [LinkedIn](https://www.linkedin.com) or check out more projects on [GitHub](https://github.com).
+I'm a data enthusiast passionate about transforming raw data into meaningful insights. Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-bamane-16abaa219/) 
